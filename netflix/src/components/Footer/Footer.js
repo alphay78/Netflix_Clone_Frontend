@@ -35,7 +35,7 @@ const Footer = () => {
               <li>Corporate Information</li>
             </ul>
           </div>
-          z
+          
           <div>
             <ul>
               <li>Media Center</li>
